@@ -19,6 +19,7 @@ window.plugins.vibrationPlugin.vibrate('error', function() {
 }, function(err) {
     console.error('Vibration error: ' + err);
 });
+```
 
 ## Autor
 
